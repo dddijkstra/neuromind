@@ -1,0 +1,5 @@
+{
+  "name": "NeuroMind Assessment",
+  "description": "A professional mental health assessment tool using DSM-5-TR criteria with simulated EEG monitoring.",
+  "requestFramePermissions": []
+}
